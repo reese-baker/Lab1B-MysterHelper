@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Lab1B-MysteryHelper</string>
+
+    <string name="getHelpTextView">Press the button to get help ...</string>
+    <string name="helpButton">Get Help</string>
+
+    <string-array name="outputArray">
+        <item>you get knocked out</item>
+        <item>you go somewhere else</item>
+        <item>you find a dead man</item>
+        <item>someone has searched the place</item>
+        <item>a crooked cop warns you</item>
+        <item>you are arrested</item>
+        <item>a bullet whizzes past your ear!</item>
+        <item>you are almost run over!</item>
+        <item>you are being followed</item>
+        <item>must have been the wind</item>
+        <item>you hear a scream!</item>
+        <item>you hear footsteps behind you ...</item>
+        <item>there is a knock at the door</item>
+    </string-array>
+
+</resources>
